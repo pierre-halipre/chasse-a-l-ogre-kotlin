@@ -14,7 +14,7 @@ Repoussez-les en leur jetant des sorts, mais n'ensorcelez pas les humains !
 ### Pour jouer
 
 Téléchargez puis installez
-l'application [chasse-a-l-ogre-1.apk](https://github.com/pierre-halipre/chasse-a-l-ogre/releases/download/v1/chasse-a-l-ogre-1.apk "Application").
+l'application [chasse-a-l-ogre-kotlin-1.apk](https://github.com/pierre-halipre/chasse-a-l-ogre-kotlin/releases/download/v1/chasse-a-l-ogre-kotlin-1.apk "Application").
 
 > Configuration minimale :
 >* appareil Android 9 Pie (API 28),
@@ -23,7 +23,7 @@ l'application [chasse-a-l-ogre-1.apk](https://github.com/pierre-halipre/chasse-a
 ### Pour développer
 
 Téléchargez puis intégrez dans votre IDE le code
-source [chasse-a-l-ogre-1.zip](https://github.com/pierre-halipre/chasse-a-l-ogre/archive/refs/tags/v1.zip "Code source").
+source [chasse-a-l-ogre-kotlin-1.zip](https://github.com/pierre-halipre/chasse-a-l-ogre-kotlin/archive/refs/tags/v1.zip "Code source").
 
 > IDE, langage et librairies utilisés :
 >* Android Studio Panda 4 2025.3.4,
