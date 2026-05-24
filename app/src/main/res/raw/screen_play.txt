@@ -1,0 +1,8 @@
+0123456789:' 
+ CHASSE 
+        
+A L'OGRE
+ PAUSE! 
+ TEMPS: 
+  FIN!  
+ SCORE: 
